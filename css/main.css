@@ -6,3 +6,18 @@
     max-width: 900px;
     margin: 0 auto;
 } */
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.catagories img{
+    width: 100px;
+  
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
